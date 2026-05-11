@@ -18,6 +18,12 @@ higher-value groups.
 
 ---
 
+## Data
+Data provided by industry partner. 
+Raw data is not included in this repository.
+
+---
+
 ## Methodology
 
 **Step 1 — Customer Segmentation**
